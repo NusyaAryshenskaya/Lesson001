@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Обучение\\C#\\C#.csproj": {}
+    "E:\\Обучение\\C#\\Lesson 001\\C#.csproj": {}
   },
   "projects": {
-    "E:\\Обучение\\C#\\C#.csproj": {
+    "E:\\Обучение\\C#\\Lesson 001\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Обучение\\C#\\C#.csproj",
+        "projectUniqueName": "E:\\Обучение\\C#\\Lesson 001\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "E:\\Обучение\\C#\\C#.csproj",
+        "projectPath": "E:\\Обучение\\C#\\Lesson 001\\C#.csproj",
         "packagesPath": "C:\\Users\\ZH\\.nuget\\packages\\",
-        "outputPath": "E:\\Обучение\\C#\\obj\\",
+        "outputPath": "E:\\Обучение\\C#\\Lesson 001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZH\\AppData\\Roaming\\NuGet\\NuGet.Config"
